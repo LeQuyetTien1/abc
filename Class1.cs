@@ -4,7 +4,7 @@ public class Class1
 {
 	public Class1()
 	{
-		Console.WriteLine("Hello");
-		Console.WriteLine("World");
+		int n= Convert.ToInt32(Console.ReadLine());
+		Console.WriteLine(n);
 	}
 }
